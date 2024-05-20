@@ -88,3 +88,21 @@ h1 {
   border-radius: 0 0 1rem 1rem;
 
 }
+
+.jar-glossy-short{
+  position: absolute;
+  width: 4%;
+  height: 5%;
+  background: yellow;
+  bottom: 42%;
+  left: 25%;
+
+}
+.jar-glossy-long{
+  position: absolute;
+  width: 4%;
+  height: 13%;
+  background: blue;
+  bottom: 26%;
+  left: 25%;
+}
